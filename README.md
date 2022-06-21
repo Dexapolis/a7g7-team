@@ -11,7 +11,7 @@ a7g7-team created by GitHub Classroom
 ### General Info
 ***
 Equipo proyecto integrador del Instituto Superior Politecnico Cordoba 
-![Screenshot](screenshot.png)
+![Screenshot](fondo.jpeg)
 ## Technologies
 ***
 A list of technologies used within the project:
