@@ -7,7 +7,7 @@
 1. [Informacion General](#informacion-general)
 2. [Tecnologias](#tecnologias)
 3. [Equipo](#equipo)
-4. [FAQs](#faqs)
+
 ### Informacion General
 ***
 Equipo proyecto integrador del Instituto Superior Politecnico Cordoba 
